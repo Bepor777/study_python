@@ -1,1 +1,1 @@
-# study_python
+study pure python 
